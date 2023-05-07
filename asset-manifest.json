@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rozzya666/HWM-Task.git/static/css/main.77bcc3b4.css",
+    "main.js": "/Rozzya666/HWM-Task.git/static/js/main.e1864140.js",
+    "index.html": "/Rozzya666/HWM-Task.git/index.html",
+    "main.77bcc3b4.css.map": "/Rozzya666/HWM-Task.git/static/css/main.77bcc3b4.css.map",
+    "main.e1864140.js.map": "/Rozzya666/HWM-Task.git/static/js/main.e1864140.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77bcc3b4.css",
+    "static/js/main.e1864140.js"
+  ]
+}
